@@ -125,10 +125,6 @@ function Footer() {
             </p>
           </div>
 
-          <div className="flex text-white">
-            <input className="w-[18rem] h-[3rem] border-1 bg-gray-400" placeholder="your email address " />
-            <button>Subscribe</button>
-          </div>
         </div>
       </div>
     </section>
